@@ -10,7 +10,7 @@ design:
     gradient_end: '#2b94c3'
     text_color_light: true
 cta:
-  url: docs/
+  url: /uploads/fafa_v101.apk
   label: 下载app
   icon_pack: fas
   icon: download
