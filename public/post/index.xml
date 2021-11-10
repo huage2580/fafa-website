@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | 花花收纳</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Sep 2021 02:02:02 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hucbaca21b7bbdf640366ecce298385065_3742_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>测试文章标题</title>
+      <link>/post/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</link>
+      <pubDate>Thu, 30 Sep 2021 02:02:02 +0000</pubDate>
+      <guid>/post/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</guid>
+      <description>&lt;h2 id=&#34;hi内容&#34;&gt;hi内容&lt;/h2&gt;
+&lt;p&gt;测试内容!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
