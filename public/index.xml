@@ -20,9 +20,8 @@
       <description>&lt;h2 id=&#34;花花收纳如何激活会员&#34;&gt;花花收纳如何激活会员&lt;/h2&gt;
 &lt;p&gt;关于会员的权限请参考使用介绍；&lt;/p&gt;
 &lt;h3 id=&#34;激活会员&#34;&gt;激活会员&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;http://inews.gtimg.com/newsapp_ls/0/14058764980/0&#34; alt=&#34;pic&#34;&gt;&lt;/p&gt;
-&lt;p&gt;购买会员需要复制购买链接到浏览器打开，https://mianbaoduo.com/o/bread/YZ6TmZhu ；&lt;/p&gt;
-&lt;p&gt;购买完成后，面包多会提供一个订单号，复制订单号到app内输入，激活会员权限。如有疑惑，请加反馈群。&lt;/p&gt;
+&lt;p&gt;直接通过购买按钮支付会员费用，购买后通过微信或者支付宝的订单号激活会员。&lt;/p&gt;
+&lt;p&gt;会员是按设备绑定的，更换设备需要重新购买。卸载和清除应用数据，需要重新激活；&lt;/p&gt;
 </description>
     </item>
     
@@ -45,13 +44,13 @@
 &lt;p&gt;首先下载一个简单的webDAV服务器。链接: &lt;a href=&#34;https://pan.baidu.com/s/1L8E_mF77DwEjsZlDvCH8lg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pan.baidu.com/s/1L8E_mF77DwEjsZlDvCH8lg&lt;/a&gt; 提取码: fcat 复制这段内容后打开百度网盘手机App，操作更方便哦&lt;/p&gt;
 &lt;p&gt;解压到一个文件夹，在cmd中打开这个文件夹。&lt;/p&gt;
 &lt;p&gt;在文件夹内按住shift，然后鼠标右键，在此处打开，有些电脑叫cmd。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://inews.gtimg.com/newsapp_ls/0/14096306230/0&#34; alt=&#34;image-20211022092101953&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/iTbAHnd.jpg&#34; alt=&#34;image-20211022092101953&#34;&gt;&lt;/p&gt;
 &lt;p&gt;运行&lt;code&gt;ipconfig&lt;/code&gt; 快速获取ip&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://inews.gtimg.com/newsapp_ls/0/14096311781/0&#34; alt=&#34;image-20211022092309202&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/TQcUBfG.jpg&#34; alt=&#34;image-20211022092309202&#34;&gt;&lt;/p&gt;
 &lt;p&gt;运行&lt;code&gt;.\webdav.exe&lt;/code&gt;, 服务就会在7474端口打开。电脑浏览器打开&lt;code&gt;http://127.0.0.1:7474/&lt;/code&gt; ,账号密码都是&lt;code&gt;admin&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://inews.gtimg.com/newsapp_ls/0/14096314582/0&#34; alt=&#34;image-20211022092418888&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/9kv0LtW.jpg&#34; alt=&#34;image-20211022092418888&#34;&gt;&lt;/p&gt;
 &lt;p&gt;成功打开就可以到花花收纳中输入地址和账号了，地址中的127.0.0.1 替换成电脑的ip,(命令行 ipconfig快速获取ip)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://inews.gtimg.com/newsapp_ls/0/14096317303/0&#34; alt=&#34;image-20211022092539162&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/74xdMdo.jpg&#34; alt=&#34;image-20211022092539162&#34;&gt;&lt;/p&gt;
 &lt;p&gt;备份后的数据都会出现在文件夹中&lt;/p&gt;
 </description>
     </item>
@@ -63,11 +62,11 @@
       <guid>/docs/%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8/%E4%BF%9D%E8%B4%A8%E6%9C%9F/</guid>
       <description>&lt;h2 id=&#34;关于物品设置保质期&#34;&gt;关于物品设置保质期&lt;/h2&gt;
 &lt;p&gt;物品在设置过期日期后，每当打开app时，首页会提示过期物品。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://inews.gtimg.com/newsapp_ls/0/14093387153/0&#34; alt=&#34;image-20211021140246149&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/IeIfmtW.jpg&#34; alt=&#34;image-20211021140246149&#34;&gt;&lt;/p&gt;
 &lt;p&gt;也可以在物品页中，点击感叹号查看所有设置了保质期的物品。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://inews.gtimg.com/newsapp_ls/0/14093394755/0&#34; alt=&#34;image-20211021140451712&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/voLmIwg.jpg&#34; alt=&#34;image-20211021140451712&#34;&gt;&lt;/p&gt;
 &lt;p&gt;物品提示过期日期和已过期状态&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://inews.gtimg.com/newsapp_ls/0/14093397160/0&#34; alt=&#34;image-20211021140527744&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ngHJjUc.jpg&#34; alt=&#34;image-20211021140527744&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -82,9 +81,7 @@ Android采取试用激活会员机制，ios采用付费购买应用机制。&lt;
 &lt;h3 id=&#34;会员和普通用户的区别&#34;&gt;会员和普通用户的区别？&lt;/h3&gt;
 &lt;p&gt;参考教程里面，有写。大体上就是普通用户限制物品数量为20，一些增强功能会限制使用。会员解锁所有功能，不限制物品数量。&lt;/p&gt;
 &lt;h3 id=&#34;会员设备数量限制怎么注销设备超过数量限制怎么办&#34;&gt;会员设备数量限制？怎么注销设备？超过数量限制怎么办？&lt;/h3&gt;
-&lt;p&gt;目前Android绑定设备编码收费，卸载和清除数据都会导致设备编码变更，需要重新激活。&lt;br&gt;
-一个订单号限制10个设备编码。&lt;br&gt;
-注销设备需要在群里联系我手动重置。&lt;/p&gt;
+&lt;p&gt;目前Android绑定设备收费，卸载需要重新激活。&lt;/p&gt;
 &lt;h3 id=&#34;需要联网吗会不会保存用户数据&#34;&gt;需要联网吗？会不会保存用户数据?&lt;/h3&gt;
 &lt;p&gt;应用不联网，纯离线使用，数据只保存在手机，不会存储到任何服务器。&lt;br&gt;
 自行通过webDAV协议备份数据到网盘，花花收纳不会获取你的任何信息，充分尊重您的隐私。&lt;/p&gt;
